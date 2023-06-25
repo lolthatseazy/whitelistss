@@ -176,11 +176,11 @@
       "Tags": [
         {
           "TagColor": {
-            "r": 1,
-            "g": 0.3,
-            "b": 0.3
+            "r": 255,
+            "g": 255,
+            "b": 0
           },
-          "TagText": "EXTABLEZ OWNEZ"
+          "TagText": "EXTABLEZ OWNER"
         }
       ]
     },
